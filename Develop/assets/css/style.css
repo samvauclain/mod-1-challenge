@@ -79,13 +79,13 @@ p {
 }
 
 /* Content (seo,  online rep, social media */
-.content {
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.content section {
+main section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -94,11 +94,11 @@ p {
     color: #ffffff;
 }
 
-.content img {
+main img {
     max-height: 200px;
 }
 
-.content h2 {
+main h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
