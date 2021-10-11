@@ -12,7 +12,7 @@ In order to make the CSS more effecient, the following was done:
 1. There were multiple classes sharing the same styles, these were combined
 2. In some cases, CSS selector classes were removed by selecting HTML symantic tags and their children tags instead.
 
-These updates can be seen on the web by [clicking here:]()
+These updates can be seen on the web by [clicking here:](https://samvauclain.github.io/mod-1-challenge/)
 
 Screenshot of Project:
 
